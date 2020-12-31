@@ -11,19 +11,11 @@ I'm not really a developer, more like I'm an aspiring engineer (not computer eng
 
 ### Pinned Repositories
 
-<a href='https://github.com/maisans-maid/Mai'> <img align='left' src='https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=Mai&theme=nightowl'> </a>
-
-<a href='https://github.com/maisans-maid/mai.moe'> <img align='right' src='https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=mai.moe&theme=nightowl'> </a>
-
-<br /><br />
-
-<a href='https://github.com/maisans-maid/AnimeQuiz'> <img align='left' src='https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=AnimeQuiz&theme=nightowl'> </a>
-
-<a href='https://github.com/maisans-maid/mai-docs'> <img align='right' src='https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=mai-docs&theme=nightowl'> </a>
-
-<br /> <br />
-
-<p align='center'> <a href='https://github.com/maisans-maid/MaiSakurajima'> <img src='https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=MaiSakurajima&theme=nightowl'> </a> </p>
+[![Mai](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=Mai&theme=nightowl)](https://github.com/maisans-maid/Mai)
+[![mai.moe](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=mai.moe&theme=nightowl)](https://github.com/maisans-maid/mai.moe)
+[![AnimeQuiz](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=AnimeQuiz&theme=nightowl)](https://github.com/maisans-maid/AnimeQuiz)
+[![mai-docs](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=mai-docs&theme=nightowl)](https://github.com/maisans-maid/mai-docs)
+[![MaiSakurajima](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=MaiSakurajima&theme=nightowl)](https://github.com/maisans-maid/MaiSakurajima)
 
 ### Most Used Languages
 
