@@ -27,5 +27,5 @@ I'm not really a developer, more like I'm an aspiring engineer (not computer eng
 
 ### Most Used Languages
 
-[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=maisans-maid&layout=compact)](https://github.com/maisans-maid/)
+[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=maisans-maid&layout=compact&theme=nightowl)](https://github.com/maisans-maid/)
 
